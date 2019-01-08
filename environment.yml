@@ -52,6 +52,7 @@ dependencies:
   - requests=2.21.0=py37_1000
   - setuptools=40.6.3=py37_0
   - six=1.12.0=py37_1000
+  - soupsieve=1.6.2=py37_1000
   - sqlite=3.26.0=hb1c47c0_0
   - tk=8.6.9=ha92aebf_0
   - tornado=5.1.1=py37h470a237_0
